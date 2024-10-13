@@ -32,3 +32,7 @@ except Exception as e:
 # Output:
 # Name: Sushant, Age: 34
 # Information is not set.
+
+
+def set_info():
+    pass
